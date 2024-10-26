@@ -1,0 +1,17 @@
+C:\Users\mcedu\OneDrive\Escritorio\Conversor de Unidades.R\Conversor_Unidades_RebecaForm\Conversor_Unidades_RebecaForm\bin\Debug\net8.0-windows\Conversor_Unidades_RebecaForm.exe
+C:\Users\mcedu\OneDrive\Escritorio\Conversor de Unidades.R\Conversor_Unidades_RebecaForm\Conversor_Unidades_RebecaForm\bin\Debug\net8.0-windows\Conversor_Unidades_RebecaForm.deps.json
+C:\Users\mcedu\OneDrive\Escritorio\Conversor de Unidades.R\Conversor_Unidades_RebecaForm\Conversor_Unidades_RebecaForm\bin\Debug\net8.0-windows\Conversor_Unidades_RebecaForm.runtimeconfig.json
+C:\Users\mcedu\OneDrive\Escritorio\Conversor de Unidades.R\Conversor_Unidades_RebecaForm\Conversor_Unidades_RebecaForm\bin\Debug\net8.0-windows\Conversor_Unidades_RebecaForm.dll
+C:\Users\mcedu\OneDrive\Escritorio\Conversor de Unidades.R\Conversor_Unidades_RebecaForm\Conversor_Unidades_RebecaForm\bin\Debug\net8.0-windows\Conversor_Unidades_RebecaForm.pdb
+C:\Users\mcedu\OneDrive\Escritorio\Conversor de Unidades.R\Conversor_Unidades_RebecaForm\Conversor_Unidades_RebecaForm\obj\Debug\net8.0-windows\Conversor_Unidades_RebecaForm.Form1.resources
+C:\Users\mcedu\OneDrive\Escritorio\Conversor de Unidades.R\Conversor_Unidades_RebecaForm\Conversor_Unidades_RebecaForm\obj\Debug\net8.0-windows\Conversor_Unidades_RebecaForm.vbproj.GenerateResource.cache
+C:\Users\mcedu\OneDrive\Escritorio\Conversor de Unidades.R\Conversor_Unidades_RebecaForm\Conversor_Unidades_RebecaForm\obj\Debug\net8.0-windows\Conversor_Unidades_RebecaForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcedu\OneDrive\Escritorio\Conversor de Unidades.R\Conversor_Unidades_RebecaForm\Conversor_Unidades_RebecaForm\obj\Debug\net8.0-windows\Conversor_Unidades_RebecaForm.AssemblyInfoInputs.cache
+C:\Users\mcedu\OneDrive\Escritorio\Conversor de Unidades.R\Conversor_Unidades_RebecaForm\Conversor_Unidades_RebecaForm\obj\Debug\net8.0-windows\Conversor_Unidades_RebecaForm.AssemblyInfo.vb
+C:\Users\mcedu\OneDrive\Escritorio\Conversor de Unidades.R\Conversor_Unidades_RebecaForm\Conversor_Unidades_RebecaForm\obj\Debug\net8.0-windows\Conversor_Unidades_RebecaForm.vbproj.CoreCompileInputs.cache
+C:\Users\mcedu\OneDrive\Escritorio\Conversor de Unidades.R\Conversor_Unidades_RebecaForm\Conversor_Unidades_RebecaForm\obj\Debug\net8.0-windows\Conversor_Unidades_RebecaForm.dll
+C:\Users\mcedu\OneDrive\Escritorio\Conversor de Unidades.R\Conversor_Unidades_RebecaForm\Conversor_Unidades_RebecaForm\obj\Debug\net8.0-windows\refint\Conversor_Unidades_RebecaForm.dll
+C:\Users\mcedu\OneDrive\Escritorio\Conversor de Unidades.R\Conversor_Unidades_RebecaForm\Conversor_Unidades_RebecaForm\obj\Debug\net8.0-windows\Conversor_Unidades_RebecaForm.pdb
+C:\Users\mcedu\OneDrive\Escritorio\Conversor de Unidades.R\Conversor_Unidades_RebecaForm\Conversor_Unidades_RebecaForm\obj\Debug\net8.0-windows\Conversor_Unidades_RebecaForm.genruntimeconfig.cache
+C:\Users\mcedu\OneDrive\Escritorio\Conversor de Unidades.R\Conversor_Unidades_RebecaForm\Conversor_Unidades_RebecaForm\obj\Debug\net8.0-windows\ref\Conversor_Unidades_RebecaForm.dll
+C:\Users\mcedu\OneDrive\Escritorio\Conversor de Unidades.R\Conversor_Unidades_RebecaForm\Conversor_Unidades_RebecaForm\obj\Debug\net8.0-windows\Conversor_Unidades_RebecaForm.Resources.resources
